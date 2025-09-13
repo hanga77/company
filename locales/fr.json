@@ -1,0 +1,67 @@
+
+{
+  "companyName": "[Nom de l'entreprise]",
+  "header": {
+    "logo": "VotreLogo",
+    "home": "Accueil",
+    "vision": "Vision",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "La Solution Innovante Pour <span class=\"text-indigo-600 dark:text-indigo-400\">Votre Quotidien</span>",
+    "subtitle": "[Texte à remplacer] : Décrivez ici la proposition de valeur principale de votre application. Simple, direct et percutant.",
+    "cta": "Nous Contacter"
+  },
+  "vision": {
+    "title": "Vers le Futur",
+    "subtitle": "[Texte à remplacer] : Notre vision est de révolutionner notre secteur. Voici notre feuille de route et nos ambitions pour les années à venir.",
+    "phase1": {
+      "title": "Phase 1: Consolidation",
+      "description": "[Texte à remplacer] : Description de la première étape de votre vision. Objectifs clés et résultats attendus."
+    },
+    "phase2": {
+      "title": "Phase 2: Expansion",
+      "description": "[Texte à remplacer] : Détails sur l'expansion, nouveaux marchés, nouvelles fonctionnalités."
+    },
+    "phase3": {
+      "title": "Phase 3: Innovation",
+      "description": "[Texte à remplacer] : Projets futurs, R&D, et comment vous prévoyez de rester à la pointe de la technologie."
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "[Texte à remplacer] : Une question, une suggestion ou un projet ? Remplissez le formulaire ci-dessous.",
+    "form": {
+      "name": {
+        "label": "Nom complet",
+        "placeholder": "Votre nom"
+      },
+      "email": {
+        "label": "Adresse e-mail",
+        "placeholder": "vous@exemple.com"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Votre message..."
+      },
+      "submit": "Envoyer le Message",
+      "successAlert": "Merci pour votre message ! Ceci est un formulaire de démonstration. Aucune donnée n'a été envoyée."
+    }
+  },
+  "policy": {
+    "terms": {
+      "title": "Conditions Générales d'Utilisation",
+      "content": "<p class=\"mb-4\">Dernière mise à jour : [Date]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">1. Introduction</h3><p>Veuillez lire attentivement ces conditions générales avant d'utiliser notre service. [Contenu à remplacer]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">2. Propriété Intellectuelle</h3><p>Le Service et son contenu original, ses caractéristiques et ses fonctionnalités sont et resteront la propriété exclusive de [Nom de l'entreprise] et de ses concédants de licence. [Contenu à remplacer]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">3. Liens vers d'autres sites Web</h3><p>Notre Service peut contenir des liens vers des sites Web ou des services tiers qui ne sont pas détenus ou contrôlés par [Nom de l'entreprise]. [Contenu à remplacer]</p>"
+    },
+    "privacy": {
+      "title": "Politique de Confidentialité",
+      "content": "<p class=\"mb-4\">Dernière mise à jour : [Date]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">1. Collecte et Utilisation des Données</h3><p>Nous collectons plusieurs types d'informations différentes à diverses fins pour fournir et améliorer notre Service. [Contenu à remplacer]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">2. Données Personnelles</h3><p>Lors de l'utilisation de notre Service, nous pouvons vous demander de nous fournir certaines informations personnelles identifiables qui peuvent être utilisées pour vous contacter ou vous identifier. [Contenu à remplacer]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">3. Sécurité des Données</h3><p>La sécurité de vos données est importante pour nous, mais n'oubliez pas qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sûre à 100 %. [Contenu à remplacer]</p>"
+    }
+  },
+  "footer": {
+    "terms": "Conditions générales",
+    "privacy": "Politique de confidentialité",
+    "copyright": "© {{year}} {{companyName}}. Tous droits réservés.",
+    "disclaimer": "Ceci est un site de démonstration avec du contenu provisoire."
+  }
+}

@@ -1,0 +1,67 @@
+
+{
+  "companyName": "[Company Name]",
+  "header": {
+    "logo": "YourLogo",
+    "home": "Home",
+    "vision": "Vision",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "The Innovative Solution For <span class=\"text-indigo-600 dark:text-indigo-400\">Your Daily Life</span>",
+    "subtitle": "[Text to be replaced]: Describe here the main value proposition of your application. Simple, direct, and impactful.",
+    "cta": "Contact Us"
+  },
+  "vision": {
+    "title": "Towards the Future",
+    "subtitle": "[Text to be replaced]: Our vision is to revolutionize our industry. Here is our roadmap and our ambitions for the years to come.",
+    "phase1": {
+      "title": "Phase 1: Consolidation",
+      "description": "[Text to be replaced]: Description of the first step of your vision. Key objectives and expected results."
+    },
+    "phase2": {
+      "title": "Phase 2: Expansion",
+      "description": "[Text to be replaced]: Details on expansion, new markets, new features."
+    },
+    "phase3": {
+      "title": "Phase 3: Innovation",
+      "description": "[Text to be replaced]: Future projects, R&D, and how you plan to stay at the forefront of technology."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "[Text to be replaced]: A question, a suggestion, or a project? Fill out the form below.",
+    "form": {
+      "name": {
+        "label": "Full name",
+        "placeholder": "Your name"
+      },
+      "email": {
+        "label": "Email address",
+        "placeholder": "you@example.com"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Your message..."
+      },
+      "submit": "Send Message",
+      "successAlert": "Thank you for your message! This is a demo form. No data has been sent."
+    }
+  },
+  "policy": {
+    "terms": {
+      "title": "Terms of Service",
+      "content": "<p class=\"mb-4\">Last updated: [Date]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">1. Introduction</h3><p>Please read these terms and conditions carefully before using Our Service. [Content to be replaced]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">2. Intellectual Property</h3><p>The Service and its original content, features and functionality are and will remain the exclusive property of [Company Name] and its licensors. [Content to be replaced]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">3. Links to Other Websites</h3><p>Our Service may contain links to third-party web sites or services that are not owned or controlled by [Company Name]. [Content to be replaced]</p>"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "content": "<p class=\"mb-4\">Last updated: [Date]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">1. Data Collection and Use</h3><p>We collect several different types of information for various purposes to provide and improve our Service to you. [Content to be replaced]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">2. Personal Data</h3><p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. [Content to be replaced]</p><h3 class=\"text-xl font-semibold mb-2 mt-4\">3. Data Security</h3><p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. [Content to be replaced]</p>"
+    }
+  },
+  "footer": {
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "copyright": "© {{year}} {{companyName}}. All rights reserved.",
+    "disclaimer": "This is a demo site with placeholder content."
+  }
+}
